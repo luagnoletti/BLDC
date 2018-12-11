@@ -3,7 +3,7 @@ Dados coletados no BLDC durante a tese de doutorado de Luciane Agnoletti S. Pedo
 
 # Estrutura dos arquivos
 Os dados já foram selecionados aleatoriamente e divididos em arquivos nas proporções de 70% para treinamento, 20% para teste e 10% para validação.
-## Inputs
+<h2>Inputs</h2>
 <p>Nas coluna 1, temos: RPM</p>
 <p>Nas colunas 2 a 7, temos: Amplitude da FFT do eixo X do primeiro ao sexto harmônico</p>
 <p>Nas colunas 8 a 13, temos: Frequência relacionada a cada harmônico da FFT do eixo X do primeiro ao sexto</p>
